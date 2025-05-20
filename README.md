@@ -1,3 +1,10 @@
+[![Status](https://img.shields.io/badge/état-en_construction-yellow)](./STATUS.md)
+
+> **⛏️ Ce projet est un atelier vivant.**  
+> Il est en cours de construction, testé par étapes, et évolue avec chaque contribution.  
+> Pour suivre son avancée, voir : [STATUS.md](./STATUS.md)  
+> Pour l’installer et le lancer : [INSTALL.md](./INSTALL.md)
+
 # Bandhu Local AI
 
 Assistant IA local, open source.  
