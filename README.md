@@ -1,5 +1,3 @@
-# bandhu-local-ai
-
 # Bandhu Local AI
 
 Assistant IA local, open source.  
