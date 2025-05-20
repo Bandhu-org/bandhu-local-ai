@@ -65,6 +65,7 @@ Un guide pas à pas t’aidera à :
 - Modifier le comportement de l’IA
 - Héberger le tout localement
 
+> **⛏️ Projet en construction — voir `STATUS.md` pour suivre l’avancement**
 ---
 
 **Bandhu, ce n’est pas un outil.  
